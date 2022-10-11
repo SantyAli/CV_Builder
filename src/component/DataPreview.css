@@ -1,0 +1,15 @@
+.basicInfo{
+    display: flex;
+    flex-direction: column;
+    line-height: 7px;
+}
+/* ///////////////
+ */
+ .basicInfoUi{
+/* background-color: lightblue; */
+ }
+ 
+
+button{
+    border: none;
+ }

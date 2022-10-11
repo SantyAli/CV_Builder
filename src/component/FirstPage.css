@@ -1,0 +1,31 @@
+
+
+.body_height {
+    min-height: calc(100vh - 110px);
+}
+body{
+    background-image: url('../assets/image/backgroundImage.jpg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    /* background-color: white; */
+    /* background-color: #f5bdbd; */
+}
+.start_quiz {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* border: 2px solid white; */
+    /* padding: 10px 30px; */
+    color: white;
+    border-radius: 10px;
+    font-size: 24px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.start_quiz:hover {
+    color: #ADD5F5  ;
+    box-shadow: 5px 10px #ADD5F5;
+}

@@ -1,0 +1,22 @@
+.btn-view {
+  position: absolute;
+  top: 60%;
+  right: 10%;
+}
+.pills {
+  margin-left: 20px;
+  padding: 4px 25px;
+  /* border: 2px solid red; */
+  background-color: #a0d2f7;
+  border-radius: 65px;
+}
+.social-link{
+    padding-left: 75px;
+    /* background-color: aqua; */
+}
+.ip{
+  margin-left: 170px;
+}
+.btnn{
+  margin-left: 250px;
+}
